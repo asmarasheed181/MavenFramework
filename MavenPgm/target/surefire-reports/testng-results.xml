@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-08-23T17:04:09 IST" name="Suite" finished-at="2023-08-23T17:04:22 IST" duration-ms="13188">
+    <groups>
+    </groups>
+    <test started-at="2023-08-23T17:04:09 IST" name="Test" finished-at="2023-08-23T17:04:22 IST" duration-ms="13188">
+      <class name="multitestscenario.DragDrop">
+        <test-method signature="DragDrops()[pri:0, instance:multitestscenario.DragDrop@4d5b6aac]" started-at="2023-08-23T17:04:09 IST" name="DragDrops" finished-at="2023-08-23T17:04:16 IST" duration-ms="7568" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DragDrops -->
+      </class> <!-- multitestscenario.DragDrop -->
+      <class name="multitestscenario.MultiTest">
+        <test-method is-config="true" signature="Initalization()[pri:0, instance:multitestscenario.MultiTest@66d3eec0]" started-at="2023-08-23T17:04:17 IST" name="Initalization" finished-at="2023-08-23T17:04:20 IST" duration-ms="3111" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Initalization -->
+        <test-method signature="SelectDropDown()[pri:0, instance:multitestscenario.MultiTest@66d3eec0]" started-at="2023-08-23T17:04:20 IST" name="SelectDropDown" finished-at="2023-08-23T17:04:20 IST" duration-ms="451" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SelectDropDown -->
+        <test-method signature="AdvanceDropDown()[pri:0, instance:multitestscenario.MultiTest@66d3eec0]" started-at="2023-08-23T17:04:20 IST" name="AdvanceDropDown" finished-at="2023-08-23T17:04:22 IST" depends-on-methods="multitestscenario.MultiTest.SelectDropDown" duration-ms="1767" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AdvanceDropDown -->
+        <test-method is-config="true" signature="CleanUp()[pri:0, instance:multitestscenario.MultiTest@66d3eec0]" started-at="2023-08-23T17:04:22 IST" name="CleanUp" finished-at="2023-08-23T17:04:22 IST" duration-ms="248" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CleanUp -->
+      </class> <!-- multitestscenario.MultiTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

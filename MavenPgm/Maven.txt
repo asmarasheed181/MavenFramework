@@ -1,0 +1,6 @@
+we will push our code into the Git repo
+
+Jenkins - Git repo
+
+
+Jenkins - Pom.xml - Testng.xml - Testng script - Main - PageObject model
