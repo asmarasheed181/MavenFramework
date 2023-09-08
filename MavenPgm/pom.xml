@@ -65,7 +65,8 @@
           <version>2.22.1</version>
           <configuration>
                   <suiteXmlFiles>
-                     <suiteXmlFile>C:\Users\ASMA\OneDrive\Desktop\SeleniumTutorials\MavenPgm\testng.xml</suiteXmlFile>
+                     <suiteXmlFile>C:\Users\ASMA\OneDrive\Desktop\GitMaster\MavenFramework\MavenPgm\testng.xml</suiteXmlFile>
+                     
                   </suiteXmlFiles>
                </configuration>
         </plugin>
